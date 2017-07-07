@@ -1,1 +1,2 @@
 git is a software.
+git has a mutable index call stage.
