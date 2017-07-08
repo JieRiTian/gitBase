@@ -1,8 +1,4 @@
 git is a software.
 git has a mutable index call stage.
 test branch
-<<<<<<< HEAD
 create a new branch is quick and easy simple.
-=======
-create a new branch is quick and easy.
->>>>>>> fix
